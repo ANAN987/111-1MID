@@ -1,0 +1,2 @@
+C:\Users\MIS802\source\repos\ANAN987\111-1MID\111-1MID\obj\Debug\111-1MID.csproj.AssemblyReference.cache
+C:\Users\MIS802\source\repos\ANAN987\111-1MID\111-1MID\obj\Debug\111-1MID.csproj.CoreCompileInputs.cache
